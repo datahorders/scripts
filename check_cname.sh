@@ -6,7 +6,7 @@ EXPECTED_CNAME="_acme-challenge.datahorders.org"
 # Function to display usage
 usage() {
     echo "Usage: $0 --domain DOMAIN"
-    echo "Example: $0 --domain datahorders.org"
+    echo "Example: $0 --domain example.org"
     exit 1
 }
 
